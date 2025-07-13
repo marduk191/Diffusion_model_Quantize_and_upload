@@ -179,4 +179,4 @@ For issues and questions:
 
 ---
 
-**Note**: This tool is designed for quantizing and sharing machine learning models. 
+**Note**: This tool is designed for quantizing and sharing diffusion models. 
