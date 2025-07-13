@@ -36,23 +36,28 @@ A comprehensive Windows script for quantizing diffusion models and uploading the
 ## Installation
 
 1. Clone this repository:
-```git clone https://github.com/marduk191/Diffusion_model_Quantize_and_upload.git
+```
+git clone https://github.com/marduk191/Diffusion_model_Quantize_and_upload.git
 cd Diffusion_model_Quantize_and_upload
 ```
 
 2. Install Python dependencies: (Only if you do not use the ComyUI venv).
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 3. Set up Hugging Face CLI:
-```huggingface-cli login
+```
+huggingface-cli login
 ```
 
 4. Install tools
-```Run tool_install.bat to install tools
+```
+Run tool_install.bat to install tools
 ```
 5. Run script
-```Run menu_system.bat to open the menu.
+```
+Run menu_system.bat to open the menu.
 ```
 
 ## Configuration
