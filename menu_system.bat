@@ -28,7 +28,7 @@ echo ==========================================
 echo 1. Configure Settings
 echo 2. Quantize Single Format
 echo 3. Quantize Multiple Formats
-echo 4. Quantize All Formats (Original Script)
+echo 4. Quantize All Formats
 echo 5. View File Info
 echo 6. Exit
 echo.
