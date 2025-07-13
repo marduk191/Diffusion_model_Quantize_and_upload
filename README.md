@@ -2,10 +2,6 @@
 
 A comprehensive Windows script for quantizing diffusion models and uploading them to Hugging Face repositories. This tool supports multiple quantization formats and provides an intuitive menu-driven interface.
 
-## Install
- Run tool_install.bat to install tools, then menu_system.bat to open the tool.
-
-
 ## Features
 
 - **22 Quantization Formats**: Supports all major GGUF quantization formats from F32 to Q2_K_S including FP8 Scaled Stochastic
@@ -40,19 +36,23 @@ A comprehensive Windows script for quantizing diffusion models and uploading the
 ## Installation
 
 1. Clone this repository:
-```bash
-git clone https://github.com/marduk191/Diffusion_model_Quantize_and_upload.git
+```git clone https://github.com/marduk191/Diffusion_model_Quantize_and_upload.git
 cd Diffusion_model_Quantize_and_upload
 ```
 
 2. Install Python dependencies: (Only if you do not use the ComyUI venv).
-```bash
-pip install -r requirements.txt
+```pip install -r requirements.txt
 ```
 
 3. Set up Hugging Face CLI:
-```bash
-huggingface-cli login
+```huggingface-cli login
+```
+
+4. Install tools
+```Run tool_install.bat to install tools
+```
+5. Run script
+```Run menu_system.bat to open the menu.
 ```
 
 ## Configuration
