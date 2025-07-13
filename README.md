@@ -2,6 +2,10 @@
 
 A comprehensive Windows script for quantizing diffusion models and uploading them to Hugging Face repositories. This tool supports multiple quantization formats and provides an intuitive menu-driven interface.
 
+## Install
+ Run tool_install.bat to install tools, then menu_system.bat to open the tool.
+
+
 ## Features
 
 - **22 Quantization Formats**: Supports all major GGUF quantization formats from F32 to Q2_K_S including FP8 Scaled Stochastic
