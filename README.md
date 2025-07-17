@@ -1,3 +1,5 @@
+<img width="564" height="462" alt="image" src="https://github.com/user-attachments/assets/eecde1a9-c8ff-4a90-9734-69013a4b6283" />
+
 # Model Quantization and Upload Tool
 
 A comprehensive Windows script for quantizing diffusion models and uploading them to Hugging Face repositories. This tool supports multiple quantization formats and provides an intuitive menu-driven interface.
